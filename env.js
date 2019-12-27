@@ -1,12 +1,1 @@
-export const dialogflowConfig = {
-  "type": "service_account",
-  "project_id": "dewchatbot-fclnts",
-  "private_key_id": "4fe324cf9c446145ba6583f9b816dffbb16e199a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYNzaNBAsG2u88\nnKcKnyOaPEeo86UrfheuMVsxkA4S5aIkM9SaA/qgk0vOpSqkPSGfPn668tctZc8+\nK9WLnWneds2xCXWPBzGtRE0efCvHL5NLq3JI8att3WgQ0zkdEMhM2Kt+u/79FSMm\niZIYLUu6xy9eUhp0d1gCu5SfK4K0zJUKspVaWzhyNpu/Cso6fNGWJXieWJtbrPct\n/mlpTYjF0rZjk1L2aDyBc2vNzcJT+MEmqhKejFHQPljoT7kUv8IE7pyYIpzRyxpJ\n4LnU7w2hC4eTbRq/CfHe0XQ7NYdlAmhEJ++7SE136ovH3tVjGwjzGTetPIrZzb6H\nW9Oqt0qlAgMBAAECggEAA1QuSdODG/Lo9gTvaXFzyd8dt1Mw+s9xK+RkpAm0vcO9\nUFNf9ZMUG77IzwCp/GdYiiwbJWOxvmgv3aQtIH4m8B7iIdSkc7RHpoRDr7F3txRb\nbzHPi6H04rci8AdgfLsSamR3l3brgRf/N4usrSSdYt3IM+qNr7daqogazKyN0ZzB\neu7Ojofl0hjExm+OVLcojFD3Ul4meOc4v+m+FxUIH/nVed6q5tevwRjdlJrsQmg7\nEQ02wGMkTJCnHueXas0NoJUT4uvVqkTESabqA6ooj99m0WEUgVlOg9ST6O2dOhAA\neKDhHIZB1Hz7rtwkyQU4ldBl9tpnBf4ATNuAXamO4QKBgQDzxYUa3IuN7gPoDPWf\nEfAGR38cU5PaRC92dS+kNtCw+tg958XQEQENCgELz7MloEWG+qhFd7yXX13DrRJ5\nHqf/0nzC3JuagQJVtMMYTuRp7XomXKs9ByerBAU+tWTfpDsVoHt2Qf3F5gOJ73y/\nNlO8hc5l53f0IH2216+CcNlG/QKBgQDjD9MH+sc0SS+wmWNfWupZRJ/bEM0q4MPe\n0Qojn87+nA0hiLS0fsCYj2SAmkQAlSE4UwIa49t6lCf0/qyMvOMhbud0wO0bqTjE\n+9Hat3jy2mVPw1eWkZ7SniLK1VlegtBSOcj07monedjBcOknYtGMGdLeJA60j/NZ\nazhP6nkmyQKBgGtzrXBhtsIhIGexDrPHXF3oNgdub8XOOH2muhFQeD0K1Ta0a2WD\nmUr+Fef27aiwNPWCl5nHZcHzr4kJSRNKiBMj3Qqn447/PuA4haa5X8WxgB5YysJj\n3QBtDULPAl/yLHkj/EfsXshU00qB3iMK924qLQiONznM+J0YBa0hwSShAoGAZW8j\nShRIu13adR0A3I9D058pfnaSAQ6p0bc2vVVd5jYWU527hEp/hWfBcQX5TP1R+tRy\nQ0r5OFhJRVQkBzc2jC/8LBcnlUzSdIU+aWO/H1ZbHffZAAWLmvFT/6KxqtvrbmAs\nGucK+xmesEPdlF+71seOgPhArX8FKjQQ0vqfJqkCgYEAyjIRzNb2rOfiQVraEi/1\nCRrdIZyj4UDnuzX1mOE7IrBLzuY7KuL3DOuJOaxG94VugCjO1d49OuYgpLm4wYAC\nTUzeK0Rs2luk6sv4BS8ip0VzRAUdFZzDxKK+8If+oqB3TWS+RYBO2GjQwN2pmTbX\nFyPR1R/tZmr+l3tAEEPiE+A=\n-----END PRIVATE KEY-----\n",
-  "client_email": "dialogflow-lppihj@dewchatbot-fclnts.iam.gserviceaccount.com",
-  "client_id": "104017960658880996015",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-lppihj%40dewchatbot-fclnts.iam.gserviceaccount.com"
-};
+export const dialogflowConfig = {};
